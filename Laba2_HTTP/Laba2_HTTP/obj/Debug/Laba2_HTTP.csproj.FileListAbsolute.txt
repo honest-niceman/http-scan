@@ -1,0 +1,26 @@
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\bin\Debug\Laba2_HTTP.exe.config
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\bin\Debug\Laba2_HTTP.exe
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\bin\Debug\Laba2_HTTP.pdb
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.csprojAssemblyReference.cache
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.Form1.resources
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.Properties.Resources.resources
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.csproj.GenerateResource.cache
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.csproj.CopyComplete
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.exe
+C:\Users\Георгий\source\repos\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.pdb
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\bin\Debug\Laba2_HTTP.exe.config
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\bin\Debug\Laba2_HTTP.exe
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\bin\Debug\Laba2_HTTP.pdb
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.csprojAssemblyReference.cache
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.Form1.resources
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.Properties.Resources.resources
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.csproj.GenerateResource.cache
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.csproj.CopyComplete
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.exe
+C:\Users\Георгий\Desktop\Лабы Сети\Laba2_HTTP\Laba2_HTTP\obj\Debug\Laba2_HTTP.pdb
